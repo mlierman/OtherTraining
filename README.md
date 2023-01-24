@@ -1,1 +1,1 @@
-# GitTraining
+# Various training courses
